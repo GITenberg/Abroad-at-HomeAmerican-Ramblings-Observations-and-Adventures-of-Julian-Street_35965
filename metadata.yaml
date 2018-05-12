@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '7933'
     url: http://www.gutenberg.org/2009/agents/7933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35965#Abroad-at-HomeAmerican-Ramblings-Observations-and-Adventures-of-Julian-Street
 gutenberg_issued: '2011-04-25'
 gutenberg_type: Text
 identifiers:
